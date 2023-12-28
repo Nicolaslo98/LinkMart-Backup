@@ -47,6 +47,7 @@ bin/
 application.properties
 flyway.conf
 config/env.properties
+resources/application.properties
 
 .idea
 ```
